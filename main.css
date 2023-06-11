@@ -1,0 +1,22 @@
+html,body {
+  height: 100%;
+  
+}
+
+body {
+  margin: 0;
+
+  background:linear-gradient(90deg,#2C3E50, #4CA1AF)
+}
+
+p, a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+
+  margin: 16px;
+  color: #ffff;
+}
+
+a {
+  margin: 0;
+}
